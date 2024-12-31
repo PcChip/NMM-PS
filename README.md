@@ -23,7 +23,7 @@ For bulk enrollment of customers in Partner Center see the documentation in the 
     "TenantId": "your-tenant-id",
     "ClientId": "your-client-id",
     "Scope": "111111-111-1111-11111-1111111111/.default",
-    "Secret": "your-secret"
+    "ClientSecret": "your-secret"
 }
 ```
 More details will be provided in the future..
